@@ -1,4 +1,4 @@
- 👋 Hi, I’m @ArthurPinhas a QA Engineer trying to learn automation and coding for fun.
+ 👋 Hi, I’m @ArthurPinhas an Automation Engineer that likes coding for fun.
 
 <!---
 ArthurPinhas/ArthurPinhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
